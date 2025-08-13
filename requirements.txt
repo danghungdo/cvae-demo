@@ -1,0 +1,18 @@
+--find-links https://download.pytorch.org/whl/cu118
+torch
+torchvision
+numpy
+optuna
+wandb
+matplotlib
+tqdm
+fastapi
+uvicorn
+streamlit
+pydantic
+python-dotenv
+plotly
+pillow
+requests
+streamlit-drawable-canvas
+optuna-dashboard
